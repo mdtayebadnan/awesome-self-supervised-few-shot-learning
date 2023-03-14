@@ -1,1 +1,1 @@
-# awesome-self-supervised-few-shot-learning
+# Awesome Self-Supervised Few-Shot Learning
