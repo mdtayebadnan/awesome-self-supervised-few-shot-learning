@@ -5,6 +5,8 @@
    - [What is Self-Supervised Learning?]()
 - [Few-Shot Learning](#few-shot-learning)
    - [What is Few-Shot Learning?](#what-is-few-shot-learning)
+   - [How does Few-Shot Learning work]()
+   - [Approaches of Few-Shot Learning]
 
 # Self-Supervised Learning
 
